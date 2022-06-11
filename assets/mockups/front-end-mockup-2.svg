@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="768"
+   height="1366"
+   viewBox="0 0 768 1366"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
+   sodipodi:docname="front-end-mockup-2.svg"
+   inkscape:export-filename="../d29ffd42/front-end-mockup-2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.44"
+     inkscape:cx="84.090909"
+     inkscape:cy="723.86364"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="true"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="-495.84039,1182.0592"
+       orientation="0,-1"
+       id="guide8587"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="24.137931,926.34483"
+       orientation="1,0"
+       id="guide9540"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="216.06001"
+       y="78.3366"
+       width="15.51649"
+       height="61.958083"
+       id="rect8490" />
+    <rect
+       x="212.50907"
+       y="86.272441"
+       width="55.451226"
+       height="87.703051"
+       id="rect8484" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Programa-1"
+     style="display:inline">
+    <g
+       id="g8696"
+       transform="translate(-3.054301,-364.42761)">
+      <rect
+         style="fill:#ffffff;stroke-width:1.70975"
+         id="rect8641"
+         width="768"
+         height="250"
+         x="3.054301"
+         y="544.42761" />
+      <text
+         xml:space="preserve"
+         style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+         x="23.721037"
+         y="608.99146"
+         id="text8650"><tspan
+           sodipodi:role="line"
+           id="tspan8648"
+           x="23.721037"
+           y="608.99146"
+           style="font-size:53.3333px">Noticiero del Senado</tspan></text>
+      <rect
+         style="fill:#666666;stroke-width:0.894652"
+         id="rect8652"
+         width="768"
+         height="40"
+         x="3.054301"
+         y="753.28802" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+         x="641.33716"
+         y="780.98737"
+         id="text8659"><tspan
+           sodipodi:role="line"
+           id="tspan8657"
+           x="641.33716"
+           y="780.98737"
+           style="font-size:26.6667px;fill:#ffffff">8:00 p.m.</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8728"
+     inkscape:label="Programa-1 copia"
+     style="display:inline">
+    <g
+       id="g8782">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.70975"
+         id="rect8714"
+         width="768"
+         height="250"
+         x="0"
+         y="428" />
+      <text
+         xml:space="preserve"
+         style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+         x="21.836891"
+         y="493.73325"
+         id="text8718"><tspan
+           sodipodi:role="line"
+           id="tspan8716"
+           x="21.836891"
+           y="493.73325"
+           style="font-size:53.3333px">Plenaria del senado, nuevo</tspan><tspan
+           sodipodi:role="line"
+           x="21.836891"
+           y="560.3999"
+           style="font-size:53.3333px"
+           id="tspan8736">proyecto de ley</tspan></text>
+      <rect
+         style="fill:#666666;stroke-width:0.894652"
+         id="rect8720"
+         width="768"
+         height="40"
+         x="2.3483276e-08"
+         y="638.86041" />
+      <text
+         xml:space="preserve"
+         style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+         x="638.28284"
+         y="666.55975"
+         id="text8724"><tspan
+           sodipodi:role="line"
+           id="tspan8722"
+           x="638.28284"
+           y="666.55975"
+           style="font-size:26.6667px;fill:#ffffff">9:00 p.m.</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8800"
+     inkscape:label="Programa-2"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="g8902"
+     inkscape:label="Programa-3"
+     style="display:inline">
+    <g
+       id="g8928"
+       transform="translate(9.3170518,7.501271)">
+      <g
+         id="g8900"
+         transform="translate(-9.2170518,-7.501271)"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;stroke-width:1.70975"
+           id="rect8886"
+           width="768"
+           height="250"
+           x="0"
+           y="680" />
+        <text
+           xml:space="preserve"
+           style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+           x="22.149231"
+           y="744.15741"
+           id="text8892"><tspan
+             sodipodi:role="line"
+             x="22.149231"
+             y="744.15741"
+             style="font-size:53.3333px"
+             id="tspan8888">Repetición rendición de </tspan><tspan
+             sodipodi:role="line"
+             x="22.149231"
+             y="810.82404"
+             style="font-size:53.3333px"
+             id="tspan8890">cuentas, comisión primera</tspan></text>
+        <rect
+           style="fill:#666666;stroke-width:0.894652"
+           id="rect8894"
+           width="768"
+           height="40"
+           x="0.31233978"
+           y="889.28461" />
+        <text
+           xml:space="preserve"
+           style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+           x="620.59515"
+           y="916.98395"
+           id="text8898"><tspan
+             sodipodi:role="line"
+             id="tspan8896"
+             x="620.59515"
+             y="916.98395"
+             style="font-size:26.6667px;fill:#ffffff">10:30 p.m.</tspan></text>
+      </g>
+      <g
+         id="g8884"
+         style="display:inline"
+         transform="translate(-9.3170518,242.49873)">
+        <rect
+           style="fill:#ffffff;stroke-width:1.70975"
+           id="rect8784"
+           width="768"
+           height="250"
+           x="0"
+           y="680" />
+        <text
+           xml:space="preserve"
+           style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+           x="22.149231"
+           y="744.15741"
+           id="text8790"><tspan
+             sodipodi:role="line"
+             x="22.149231"
+             y="744.15741"
+             style="font-size:53.3333px"
+             id="tspan8829">Radio cadena nacional</tspan></text>
+        <rect
+           style="fill:#666666;stroke-width:0.894652"
+           id="rect8792"
+           width="768"
+           height="40"
+           x="0.31233978"
+           y="889.28461" />
+        <text
+           xml:space="preserve"
+           style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+           x="620.59515"
+           y="916.98395"
+           id="text8796"><tspan
+             sodipodi:role="line"
+             id="tspan8794"
+             x="620.59515"
+             y="916.98395"
+             style="font-size:26.6667px;fill:#ffffff">11:10 p.m.</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8964"
+     inkscape:label="Programa-4"
+     style="display:inline"
+     transform="translate(0,250)">
+    <rect
+       style="fill:#ffffff;stroke-width:1.47517"
+       id="rect9116"
+       width="768"
+       height="186.10492"
+       x="0"
+       y="930" />
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:1.25;font-family:sans-serif"
+       x="22.149231"
+       y="994.15741"
+       id="text9120"><tspan
+         sodipodi:role="line"
+         x="22.149231"
+         y="994.15741"
+         style="font-size:53.3333px"
+         id="tspan9118">Radio cadena nacional</tspan></text>
+  </g>
+  <rect
+     style="display:inline;fill:#b3b3b3;stroke-width:1.06147"
+     id="rect9533"
+     width="585.95197"
+     height="1185.8745"
+     x="0.049985688"
+     y="180.72368" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Body"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Header"
+     style="display:inline">
+    <rect
+       style="fill:#241f1c;fill-rule:evenodd;stroke-width:0.609053"
+       id="rect82"
+       width="768"
+       height="180"
+       x="0"
+       y="0" />
+    <path
+       d="m 113.9995,52.752712 c 0,-1.447874 -1.3033,-2.622956 -2.90906,-2.622956 H 36.90856 c -1.605813,0 -2.909059,1.175082 -2.909059,2.622956 v 6.557375 c 0,1.44786 1.303246,2.622949 2.909059,2.622949 h 74.18188 c 1.60576,0 2.90906,-1.175089 2.90906,-2.622949 z m 0,23.606552 c 0,-1.447868 -1.3033,-2.62295 -2.90906,-2.62295 H 36.90856 c -1.605813,0 -2.909059,1.175082 -2.909059,2.62295 v 6.557373 c 0,1.447867 1.303246,2.622949 2.909059,2.622949 h 74.18188 c 1.60576,0 2.90906,-1.175082 2.90906,-2.622949 z m 0,22.295074 c 0,-1.447866 -1.3033,-2.622948 -2.90906,-2.622948 H 36.90856 c -1.605813,0 -2.909059,1.175082 -2.909059,2.622948 v 6.557382 c 0,1.44786 1.303246,2.62295 2.909059,2.62295 h 74.18188 c 1.60576,0 2.90906,-1.17509 2.90906,-2.62295 z m 0,22.295082 c 0,-1.44787 -1.3033,-2.62295 -2.90906,-2.62295 H 36.90856 c -1.605813,0 -2.909059,1.17508 -2.909059,2.62295 v 6.55738 c 0,1.44786 1.303246,2.62296 2.909059,2.62296 h 74.18188 c 1.60576,0 2.90906,-1.1751 2.90906,-2.62296 z"
+       id="path7552"
+       style="fill:#e3dedb;stroke-width:2.76232" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.3333px;line-height:1;font-family:sans-serif;white-space:pre;inline-size:754.743;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="218.04944"
+       y="80.931877"
+       id="text8430"
+       transform="translate(-63.764956,27.394177)"><tspan
+         x="218.04944"
+         y="80.931877"
+         id="tspan514"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+           id="tspan512">Canal del Congreso</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text8482"
+       style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8484);display:inline" />
+    <text
+       xml:space="preserve"
+       id="text8488"
+       style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8490);display:inline" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:42.6667px;line-height:1.25;font-family:sans-serif"
+     x="26.581079"
+     y="562.13702"
+     id="text9572"><tspan
+       sodipodi:role="line"
+       id="tspan9570"
+       x="26.581079"
+       y="562.13702">Canal Caracol</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:42.6667px;line-height:1.25;font-family:sans-serif"
+     x="27.953154"
+     y="493.52902"
+     id="text9568"
+     inkscape:label="text9568"><tspan
+       sodipodi:role="line"
+       id="tspan9566"
+       x="27.953154"
+       y="493.52902">Telepacífico</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:42.6667px;line-height:1.25;font-family:sans-serif"
+     x="25.548475"
+     y="420.3447"
+     id="text9564"><tspan
+       sodipodi:role="line"
+       id="tspan9562"
+       x="25.548475"
+       y="420.3447">Canal Capital</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;display:inline"
+     x="25.692327"
+     y="345.99084"
+     id="text9544"><tspan
+       sodipodi:role="line"
+       id="tspan9542"
+       x="0"
+       y="0">City Tv</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:66.6667px;line-height:1.25;font-family:sans-serif;display:inline"
+     x="23.482323"
+     y="256.00006"
+     id="text9538"><tspan
+       sodipodi:role="line"
+       id="tspan9536"
+       x="0"
+       y="0"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Canales</tspan></text>
+</svg>
