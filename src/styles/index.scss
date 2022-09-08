@@ -1,0 +1,226 @@
+
+$boxshadow-params: 3px 5px 3px rgba(0, 0, 0, 0.33);
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+}
+
+-webkit-scrollbar {
+  display: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.body{
+  margin: 0;
+  padding: 0;
+}
+
+.sidepanel{
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: #383838;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+
+  a{
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    &:hover {
+      color: #f1f1f1;
+    }
+  }
+
+
+
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 30px;
+    text-align: left;
+    &:after{
+      display: inline-block;
+      content: "\00d7";
+
+    }
+  }
+
+
+}
+#active-true{
+  background-color: #7fb147;
+}
+.openbtn {
+  position: fixed;
+  top: 0;
+  height: 70px;
+  width: 100%;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #000000;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  &:hover {
+    background-color:#444;
+  }
+}
+
+
+.BoxContent{
+  margin-top: 70px;
+  display: inline-flex;
+  flex-direction: column;
+
+
+  @media screen and (min-width: 600px){
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    .ProgramBox{
+      flex-basis: 40%;
+      flex-grow: 1;
+      flex-wrap: wrap;
+      margin: 15px;
+
+      transition: all 0.3s ease-in;
+      &:hover{
+        transform: scale(1.02);
+      }
+
+
+
+      .program-header{
+
+        border-radius: .5em .5em 0 0;
+        box-shadow: $boxshadow-params;
+      }
+      .program-content{
+        border-radius: 0 0 .5em .5em;
+        box-shadow: $boxshadow-params;
+      }
+    }
+  }
+}
+
+
+.ProgramBox{
+
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+
+
+  button{
+    background-color: inherit;
+    color: inherit;
+    border: none;
+
+
+
+    text-decoration: none;
+    margin: 30px;
+    font-size: 16px;
+
+  }
+
+
+
+
+  .program-header{
+
+    border-radius: .5em .5em 0 0;
+    box-shadow: $boxshadow-params;
+    display: flex;
+    align-items: center;
+    padding: 3px;
+
+    min-height: 70px;
+
+
+    color: white;
+    background-color: #383838;
+
+    :nth-child(1){
+      width: 60%;
+    }
+    :nth-child(2){
+      width: 35%;
+    }
+    :nth-child(3){
+      width: 5%;
+    }
+    :nth-child(n){
+      margin: 5px;
+    }
+
+  }
+  .program-content{
+
+    border-radius: 0 0 .5em .5em;
+    box-shadow: $boxshadow-params;
+
+    text-overflow: ellipsis;
+    background-color: #d9d9d9;
+
+    padding: 5px;
+    p{
+      margin: 15px;
+      text-align: justify;
+      text-justify: inter-word;
+      display: -webkit-box;
+
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+
+
+    }
+    .open{
+      -webkit-line-clamp: 100;
+
+    }
+
+
+  }
+
+}
+
+.Channel
+{
+
+  a{
+    font-size: 20px;
+    padding:15px;
+    background-color: rgba(107, 107, 107, 0.25);
+    margin-bottom: 3px;
+    transition: all 0.1s ease;
+
+    &:hover{
+      transform: scale(1.03);
+    }
+  }
+
+}
